@@ -1,0 +1,18 @@
+<footer class="site-footer">
+	<div class="tc gray">
+		<a href="https://github.com/wpix" class="mh1 gray link hover-teal" alt="Email me">
+			<i class="fab fa-github"></i>
+		</a> &middot;
+		<a href="https://instagram.com/pi__pix" class="mh1 gray link hover-teal" alt="Twitter account">
+			<i class="fab fa-instagram"></i>
+		</a> &middot;
+		<a href="{{ .Site.BaseURL}}index.xml" class="mh1 gray link hover-teal" alt="RSS feed for this site">
+			<i class="fas fa-rss"></i>
+		</a> &middot;
+		<span class="mh1 gray">&copy; She will never swim alone {{ now.Format "2006" }} &middot;
+			<a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" class="link gray hover-teal small-caps">cc by-nc-sa</a>
+		</span>
+	</div>
+</footer>
+
+{{ partial "tracking.html" . }}
