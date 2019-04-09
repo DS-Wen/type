@@ -1,8 +1,7 @@
 +++
 title = "What About Swimming Alone?"
-description = "Well, I am totally NOT against it. Actually, if I go swimming (which is very rare), I am usually by myself.  <br> Not that I will go to the gym at 6 am to ensure nobody is around or something, its more like nobody-in-the-swimming-pool-knows-who-I-am alone.<br> <br>_Why do I write this website title? <br> You see, people post fake things online._"
+description = "<br>_Why do I write this website title? <br> You see, people post fake things online._"
 tags = [
-"about this cite",
 "weird thoughts",
 ]
 date = "2019-04-06"
